@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh19&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsingh19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh19" alt="kunalsingh19" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio.kunalsingh19.tech](https://portfolio.kunalsingh19.tech)
 
 - 📝 I regularly write articles on [https://blog.KunalSingh19.tech](https://blog.KunalSingh19.tech)
