@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalsingh19&show_icons=true&locale=en" alt="kunalsingh19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsingh19&" alt="kunalsingh19" /></p>
+
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
