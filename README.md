@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kunalsingh19" height="30" width="40" />YouTube Stats</summary>
+  <summary><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kunalsingh19" height="20" width="30" />YouTube Stats</summary>
 
  [![KunalZingh19's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCb_c2IhWw5rOQ2VoGUiKHEw&layout=extruded)](https://www.youtube.com/KunalSingh19)
 
