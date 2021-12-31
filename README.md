@@ -37,6 +37,6 @@
   <summary>My GitHub Stats</summary>
 
   [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/KunalSingh19/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19)](https://github.com/KunalSingh19)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19&layout=compact)](https://github.com/KunalSingh19)
 
 </details>
