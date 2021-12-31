@@ -32,9 +32,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
 ---
-
 <details>
   <summary>My GitHub Stats</summary>
 
