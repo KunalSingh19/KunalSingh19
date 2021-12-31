@@ -63,7 +63,7 @@
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary><img src="https://raw.githubusercontent.com/KunalSingh19/KunalSingh19/e9aa5eca3983d6459c29015161f8b7ab91f5f248/images/github.svg" alt="Github img">GitHub Stats</summary>
 
   [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&include_all_commits=true&border_radius=true)](https://github.com/KunalSingh19/)
 
