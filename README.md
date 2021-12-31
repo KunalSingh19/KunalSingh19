@@ -133,9 +133,3 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 ---
 
-<details>
-<summary>Terminal Style Git Stats</summary>
-
-<img src="https://github.com/KunalSingh19/terminal-style/blob/master/github_stats.svg"></img>
-
-</details>
