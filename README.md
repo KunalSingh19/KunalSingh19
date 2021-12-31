@@ -25,6 +25,9 @@
 
 <details>
  <summary>🛠 Language And Tools I use</summary>
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Javascript)](#)
+
 </details>
 
 <details>
@@ -53,7 +56,7 @@
 
 </details>
 <details>
-  <summary>Special Data</summary>
+  <summary>Waka Data</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
