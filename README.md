@@ -3,11 +3,11 @@
 
 ## :youtube: Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
-- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
-- [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
+- [i survived 30 minutes on void in MCPE 10× fast](https://www.youtube.com/watch?v=dj-PPB5tMjw)
+- [Nothing To Do Megacity Smp ||#EP - 1 ||](https://www.youtube.com/watch?v=Gkm2LcaArsM)
+- [Best Indian Minecraft Hosting Mumbai Ping 24/7 lag Free](https://www.youtube.com/watch?v=j4dsNR9SKXA)
+- [MCPE Shader Part ||0|| Best MCPE Shader/Texture Pack - Trailer](https://www.youtube.com/watch?v=eExan5C3LlU)
+- [How To Get Free 1000 Diamonds Daily In Free Fire || Get Unlimited Diamonds In Free Fire Fire Free](https://www.youtube.com/watch?v=_Em6N9wl5uQ)
 <!-- YOUTUBE:END -->
 
 ### :zap: My Recent Activities
