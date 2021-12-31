@@ -42,5 +42,7 @@
 </details>
 <details>
   <summary>Top Languages</summary>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19&layout=compact&langs_count=10)](https://github.com/KunalSingh19)
+
 </details>
