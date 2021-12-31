@@ -63,7 +63,7 @@
 </details>
 
 <details>
-  <summary><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kunalsingh19" height="20" width="30" />GitHub Stats</summary>
+  <summary><img align="center" src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="kunalsingh19" height="20" width="30" />GitHub Stats</summary>
 
   [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&include_all_commits=true&border_radius=true)](https://github.com/KunalSingh19/)
 
