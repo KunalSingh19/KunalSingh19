@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">I am a frontend developer from India</h3>
 
-## :youtube: Latest YouTube Videos
+### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [i survived 30 minutes on void in MCPE 10× fast](https://www.youtube.com/watch?v=dj-PPB5tMjw)
 - [Nothing To Do Megacity Smp ||#EP - 1 ||](https://www.youtube.com/watch?v=Gkm2LcaArsM)
