@@ -4,6 +4,7 @@
 ### I'm a YouTuber, Gamer, Developer, and Crypto Expert!!
 
 - 🔭 I just launched my first crypto
+- 🔭 I’m currently working on [My Website](https://KunalSingh19.tech)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learning More codings 
