@@ -1,4 +1,4 @@
-![Udit's GitHub cover](https://cool-cover.up.railway.app/cover.png?username=uditkumar01&text=Hill,+I'm+KunalSingh19&pattern=p2)
+![KunalSingh19's GitHub Cover](https://cool-cover.up.railway.app/cover.png?username=KunalSingh19&text=Hi,+I'm+KunalSingh19&pattern=p2)
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 
 ### I'm a YouTuber, Gamer, Developer, and Crypto Expert!!
