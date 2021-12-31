@@ -1,7 +1,7 @@
 ![KunalSingh19's GitHub Cover](https://cool-cover.up.railway.app/cover.png?username=KunalSingh19&text=Hi,+I'm+KunalSingh19&pattern=p2)
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 
-<h2>I'm a YouTuber, Gamer, Developer, and Crypto Expert!!</h2>
+<h2>I'm a YouTuber, Gamer and Developer!!</h2>
 
 - 🔭 I just launched my first crypto
 - 🔭 I’m currently working on [My Website](https://KunalSingh19.tech)
