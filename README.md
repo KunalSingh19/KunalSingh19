@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">I am a frontend developer from India</h3>
+## I'm a Husband, Father, Developer, and Teacher!!
+
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ---
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [i survived 30 minutes on void in MCPE 10× fast](https://www.youtube.com/watch?v=dj-PPB5tMjw)
 - [Nothing To Do Megacity Smp ||#EP - 1 ||](https://www.youtube.com/watch?v=Gkm2LcaArsM)
