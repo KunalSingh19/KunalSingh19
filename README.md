@@ -32,3 +32,12 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="KunalSingh19 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KunalSingh19&show_icons=true&hide_border=true" />
+
+</details>
