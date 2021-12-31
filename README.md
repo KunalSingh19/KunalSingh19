@@ -36,6 +36,6 @@
 <details>
   <summary>My GitHub Stats</summary>
 
-  <img align="left" alt="KunalSingh19 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KunalSingh19&show_icons=true&hide_border=true" />
+  [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19)](https://github.com/KunalSingh19/)
 
 </details>
