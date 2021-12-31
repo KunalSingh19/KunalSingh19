@@ -37,7 +37,7 @@
 <details>
   <summary>My YouTube and GitHub Stats</summary>
 
- [![KunalZingh19's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCb_c2IhWw5rOQ2VoGUiKHEw&layout=center)](https://www.youtube.com/KunalSingh19)
+ [![KunalZingh19's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCb_c2IhWw5rOQ2VoGUiKHEw&layout=extruded)](https://www.youtube.com/KunalSingh19)
 
   [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&include_all_commits=true&border_radius=true)](https://github.com/KunalSingh19/)
 
