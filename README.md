@@ -35,7 +35,9 @@
 </details>
 
 <details>
-  <summary>My GitHub Stats</summary>
+  <summary>My YouTube and GitHub Stats</summary>
+
+[![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCpKizIKSk8ga_LCI3e3GUig)](https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig)
 
   [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&include_all_commits=true&border_radius=true)](https://github.com/KunalSingh19/)
 
@@ -128,5 +130,7 @@ EJS                      1 repo              █░░░░░░░░░░�
  Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 </details>
+
+---
 
 <img src="https://github.com/KunalSingh19/terminal-style/blob/master/github_stats.svg"></img>
