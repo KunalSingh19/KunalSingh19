@@ -24,6 +24,10 @@
 ---
 
 <details>
+ <summary>🛠 Language And Tools I use</summary>
+</details>
+
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -35,7 +39,7 @@
 </details>
 
 <details>
-  <summary>My YouTube and GitHub Stats</summary>
+  <summary>📊 My YouTube and GitHub Stats</summary>
 
  [![KunalZingh19's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCb_c2IhWw5rOQ2VoGUiKHEw&layout=extruded)](https://www.youtube.com/KunalSingh19)
 
