@@ -36,6 +36,6 @@
 <details>
   <summary>My GitHub Stats</summary>
 
-  [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&border_color=#ffff00&include_all_commits&count_private)](https://github.com/KunalSingh19/)
+  [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&border_color=#ffff00&include_all_commits=true&count_private=true)](https://github.com/KunalSingh19/)
 
 </details>
