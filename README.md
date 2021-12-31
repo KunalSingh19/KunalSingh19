@@ -57,6 +57,7 @@
 
 <details>
   <summary>YouTube Stats</summary>
+
  [![KunalZingh19's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCb_c2IhWw5rOQ2VoGUiKHEw&layout=extruded)](https://www.youtube.com/KunalSingh19)
 
 </details>
