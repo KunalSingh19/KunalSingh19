@@ -36,7 +36,7 @@
 
 <details>
   <summary>My GitHub Stats</summary>
-  <img src="https://github.com/KunalSingh19/terminal-style/blob/master/github_stats.svg"></img>
+
   [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&include_all_commits=true&border_radius=true)](https://github.com/KunalSingh19/)
 
 </details>
@@ -128,3 +128,5 @@ EJS                      1 repo              █░░░░░░░░░░�
  Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 </details>
+
+<img src="https://github.com/KunalSingh19/terminal-style/blob/master/github_stats.svg"></img>
