@@ -11,6 +11,17 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/kunalsingh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunalsingh19" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kunalsingh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kunalsingh19" height="30" width="40" /></a>
+<a href="https://kaggle.com/kunalsingh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kunalsingh19" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kunalsingh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kunalsingh19" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/44SuyqbtvW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/44SuyqbtvW" height="30" width="40" /></a>
+</p>
+
+---
+
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [i survived 30 minutes on void in MCPE 10× fast](https://www.youtube.com/watch?v=dj-PPB5tMjw)
