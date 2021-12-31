@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 
-## I'm a YouTuber, Gamer, Developer, and Crypto Expert!!
+# I'm a YouTuber, Gamer, Developer, and Crypto Expert!!
 
 - 🔭 I just launched my first crypto
 - 🌱 I’m currently learning everything 🤣
