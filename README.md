@@ -48,5 +48,79 @@
 <details>
   <summary>Coding Timing</summary>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 209 Contributions in the Year 2021
+ > 
+> 📦 63.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+🌆 Daytime    205 commits    █████████████░░░░░░░░░░░░   53.52% 
+🌃 Evening    145 commits    █████████░░░░░░░░░░░░░░░░   37.86% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       82 commits     █████░░░░░░░░░░░░░░░░░░░░   21.41% 
+Tuesday      65 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
+Wednesday    71 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
+Thursday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
+Friday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+Saturday     48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+Sunday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.05%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/KunalSingh19/KunalSingh19/main/charts/bar_graph.png) 
+
+
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 </details>
