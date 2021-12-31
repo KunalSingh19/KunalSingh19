@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">I am a frontend developer from India</h3>
 
+---
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [i survived 30 minutes on void in MCPE 10× fast](https://www.youtube.com/watch?v=dj-PPB5tMjw)
@@ -9,6 +11,9 @@
 - [MCPE Shader Part ||0|| Best MCPE Shader/Texture Pack - Trailer](https://www.youtube.com/watch?v=eExan5C3LlU)
 - [How To Get Free 1000 Diamonds Daily In Free Fire || Get Unlimited Diamonds In Free Fire Fire Free](https://www.youtube.com/watch?v=_Em6N9wl5uQ)
 <!-- YOUTUBE:END -->
+➡️ [more videos...](https://youtube.com/KunalSingh19)
+
+---
 
 ### :zap: My Recent Activities
 <!--START_SECTION:activity-->
