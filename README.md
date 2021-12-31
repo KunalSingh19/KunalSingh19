@@ -26,7 +26,7 @@
 <details>
  <summary>🛠 Language And Tools I use</summary>
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Javascript)](#)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Javascript)](#) [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css)](#) [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html)](#) [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](#)
 
 </details>
 
