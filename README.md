@@ -76,7 +76,7 @@
 </details>
 
 <details>
-  <font color="blue"><summary>More Data</summary></font>
+  <summary style="color: blue;">More Data</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
