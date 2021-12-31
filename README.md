@@ -56,9 +56,13 @@
 </details>
 
 <details>
-  <summary>📊 My YouTube and GitHub Stats</summary>
-
+  <summary>YouTube Stats</summary>
  [![KunalZingh19's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCb_c2IhWw5rOQ2VoGUiKHEw&layout=extruded)](https://www.youtube.com/KunalSingh19)
+
+</details>
+
+<details>
+  <summary>GitHub Stats</summary>
 
   [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&include_all_commits=true&border_radius=true)](https://github.com/KunalSingh19/)
 
@@ -67,7 +71,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh19" alt="kunalsingh19" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsingh19&" alt="kunalsingh19" /></p>
-
 
 </details>
 
