@@ -54,7 +54,7 @@
 </details>
 
 <details>
-  <summary><img src="https://raw.githubusercontent.com/KunalSingh19/KunalSingh19/e9aa5eca3983d6459c29015161f8b7ab91f5f248/images/github.svg" alt="Github img" height="14" width="24" >GitHub Stats</summary>
+  <summary><img src="github.svg" alt="Github img" height="14" width="24" >GitHub Stats</summary>
 
 [![KunalSingh19's Stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&theme=cobalt&show_icons=true&hide_border=false&count_private=true)](https://github.com/KunalSingh19/)
 [![KunalSingh19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalSingh19&theme=vue-dark&hide_border=false)](https://github.com/KunalSingh19/)
