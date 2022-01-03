@@ -14,3 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+      - uses: gautamkrishnar/keepalive-workflow@master
+        with:
+          committer_username: "KunalSingh19"
