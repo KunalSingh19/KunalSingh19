@@ -14,6 +14,62 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories                     # Only display "header" and "repositories" sections
+          repositories: 100                              # Query only last 100 repositories
+          repositories_batch: 25                         # Query repositories 25 by 25 (lower this to avoid API timeouts)
+          repositories_forks: no                         # Don't include forks
+          repositories_affiliations: owner, collaborator # Display only repositories where user is owner or collab
+          plugin_achievements: yes
+          plugin_achievements_threshold: A     # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
+          plugin_achievements_display: compact  # Use compact display
+          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
+          plugin_achievements_only: explorer
+          plugin_activity: yes
+          plugin_activity_limit: 5           # Limit to 5 events
+          plugin_activity_load: 100          # Load up to 100 recent events from API (should be higher than "limit")
+          plugin_activity_days: 14           # Keep only events from last 14 days (set to 0 for no limit)
+          plugin_activity_filter: all        # Show all events (use table above to filter events types)
+          plugin_activity_visibility: public # Only display public events
+          plugin_activity_timestamps: yes    # Display events timestamps
+          plugin_activity_skipped: repo
+          plugin_discussions: yes
+          plugin_followup: yes
+          plugin_followup_indepth: "True"
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          config_timezone: Asia/Kolkata
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 10
+          plugin_lines: yes
+          plugin_people: yes
+          plugin_people_types: followers, thanks     # Display followers and "thanks" sections
+          plugin_people_limit: 50                  # Limit to 28 entries per section
+          plugin_people_size: 25                    # Size in pixels of displayed avatars
+          plugin_people_identicons: no               # Use avatars (do not use identicons)         
+          plugin_people_shuffle: yes
+          plugin_reactions: yes
+          plugin_reactions_limit: 200                  # Compute reactions over last 200 issue comments
+          plugin_reactions_limit_issues: 100           # Compute reactions over last 100 issues/pull requests opened
+          plugin_reactions_limit_discussions: 100      # Compute reactions over last 100 discussions
+          plugin_reactions_limit_discussions_comments: 100 # Compute reactions over last 100 discussions comments
+          plugin_reactions_days: 14                    # Compute reactions on issue comments posted less than 14 days ago
+          plugin_reactions_display: absolute           # Display percentages based on the total amoun fetched
+          plugin_reactions_details: count, percentage  # Display reactions count and percentage
+          plugin_reactions_ignored: bot
+          plugin_skyline: yes
+          plugin_skyline_year: 0            # Set to 0 to display current year
+          plugin_skyline_frames: 60         # Use 60 frames (half-loop)
+          plugin_skyline_quality: 0.5       # Set image quality
+          plugin_skyline_compatibility: yes
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
           plugin_wakatime_days: 7                                   # Display last week stats
@@ -23,4 +79,4 @@ jobs:
           plugin_wakatime_user: .user.login
           plugin_rss: yes
           plugin_rss_source: https://www.youtube.com/feeds/videos.xml?channel_id=UCb_c2IhWw5rOQ2VoGUiKHEw  # RSS feed
-          plugin_rss_limit: 6
+          plugin_rss_limit: 5
