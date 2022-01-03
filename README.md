@@ -153,3 +153,6 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 ---
 
+<p align="centre">
+<img src="https://kunalsingh19.tech/metrics/github-metrics.svg" alt="metrics"></img>
+</p>
