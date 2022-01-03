@@ -76,7 +76,7 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
           plugin_wakatime_limit: 5                                  # Show 4 entries per graph
           plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_user: KunalSingh19
           plugin_rss: yes
           plugin_rss_source: https://www.youtube.com/feeds/videos.xml?channel_id=UCb_c2IhWw5rOQ2VoGUiKHEw  # RSS feed
           plugin_rss_limit: 5
