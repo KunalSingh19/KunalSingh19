@@ -69,7 +69,7 @@
 </details>
 
 <details>
-  <summary style="color: blue;">More Data</summary>
+  <summary style="color: blue;">Special Data</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -151,8 +151,15 @@ EJS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
----
+<details>
+<summary>📑Github Metrics</summary>
 
 <p align="centre">
 <img src="https://kunalsingh19.tech/metrics/github-metrics.svg" alt="metrics"></img>
 </p>
+
+</details>
+
+---
+
+
