@@ -149,3 +149,4 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 ---
 
+![KunalSingh19's Stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
