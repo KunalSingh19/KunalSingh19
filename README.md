@@ -12,8 +12,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="centre">Connect with me:</h3>
+<p align="centre">
 <a href="https://codepen.io/kunalsingh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunalsingh19" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kunalsingh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kunalsingh19" height="30" width="40" /></a>
 <a href="https://kaggle.com/kunalsingh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kunalsingh19" height="30" width="40" /></a>
