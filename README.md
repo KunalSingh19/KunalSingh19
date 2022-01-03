@@ -56,7 +56,9 @@
 <details>
   <summary><img src="https://raw.githubusercontent.com/KunalSingh19/KunalSingh19/e9aa5eca3983d6459c29015161f8b7ab91f5f248/images/github.svg" alt="Github img" height="14" width="24" >GitHub Stats</summary>
 
-  [![KunalSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&count_private=true&show_icons=true&include_all_commits=true&border_radius=true)](https://github.com/KunalSingh19/)
+[![KunalSingh19's Stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&theme=cobalt&show_icons=true&hide_border=false&count_private=true)](https://github.com/KunalSingh19/)
+[![KunalSingh19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalSingh19&theme=vue-dark&hide_border=false)](https://github.com/KunalSingh19/)
+[![KunalSingh19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)](https://github.com/KunalSingh19/)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19&layout=compact&langs_count=10)](https://github.com/KunalSingh19)
 
@@ -149,5 +151,3 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 ---
 
-![KunalSingh19's Stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
-![KunalSingh19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalSingh19&theme=vue-dark&hide_border=false)
