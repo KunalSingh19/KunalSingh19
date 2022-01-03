@@ -17,3 +17,7 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           COMMIT_BY_ME: "True"
           SHOW_PROFILE_VIEWS: "False"
+      - uses: gautamkrishnar/keepalive-workflow@master
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          committer_username: "KunalSingh19"
