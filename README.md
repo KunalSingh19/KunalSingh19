@@ -55,7 +55,9 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalSingh19&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=KunalSingh19&theme=react-dark"/>
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=KunalSingh19&theme=react-dark"/> -->
+The End of Stats
 </div>
+
 
 <details>
   <summary>Special Data</summary>
