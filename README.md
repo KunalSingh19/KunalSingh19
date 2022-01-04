@@ -53,26 +53,19 @@
 
 </details>
 
-<details>
-  <summary><img src="github.svg" alt="Github img" height="14" width="24" >GitHub Stats</summary>
-
-[![KunalSingh19's Stats](https://github-readme-stats.vercel.app/api?username=KunalSingh19&theme=cobalt&show_icons=true&hide_border=false&count_private=true)](https://github.com/KunalSingh19/)
-[![KunalSingh19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalSingh19&theme=vue-dark&hide_border=false)](https://github.com/KunalSingh19/)
-[![KunalSingh19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)](https://github.com/KunalSingh19/)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19&layout=compact&langs_count=10)](https://github.com/KunalSingh19)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=KunalSingh19&theme=react-dark"/>
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh19" alt="kunalsingh19" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsingh19&" alt="kunalsingh19" /></p>
-
-</details>
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=KunalSingh19&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalSingh19&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=KunalSingh19&theme=react-dark"/>
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=KunalSingh19&theme=react-dark"/> -->
+</div>
 
 <details>
-  <summary style="color: blue;">Special Data</summary>
+  <summary">Special Data</summary>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--25%20Thousand%20lines%20of%20code-blue)
