@@ -62,6 +62,9 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh19&layout=compact&langs_count=10)](https://github.com/KunalSingh19)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=KunalSingh19&theme=react-dark"/>
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh19" alt="kunalsingh19" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsingh19&" alt="kunalsingh19" /></p>
