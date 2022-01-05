@@ -56,7 +56,7 @@
 ---
 
 <details>
-  <summary>Special Data</summary>
+  <summary>📖 Programming Stats</summary>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--25%20Thousand%20lines%20of%20code-blue)
@@ -137,7 +137,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 </details>
 
 <details>
-<summary>📑Github Metrics</summary>
+<summary>📑 Github Metrics</summary>
 
 <p align="centre">
 <img src="https://kunalsingh19.tech/metrics/github-metrics.svg" alt="metrics"></img>
