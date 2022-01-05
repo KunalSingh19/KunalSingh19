@@ -19,12 +19,14 @@ jobs:
           date_format: "mmm d, yyyy"
           max_post_count: 5
           template: '
+<div align="centre">
               <a href="$url">
                   <img width="250px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
               </a>
                <br>
                <a href="$url">$title</a>
 <br>
-                <br>'
+                <br>
+  </div>'
           committer_username: "KunalSingh19"
 
