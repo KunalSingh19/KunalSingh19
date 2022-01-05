@@ -24,12 +24,7 @@
 ---
 
 ## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [i survived 30 minutes on void in MCPE 10× fast](https://www.youtube.com/watch?v=dj-PPB5tMjw)
-- [Nothing To Do Megacity Smp ||#EP - 1 ||](https://www.youtube.com/watch?v=Gkm2LcaArsM)
-- [Best Indian Minecraft Hosting Mumbai Ping 24/7 lag Free](https://www.youtube.com/watch?v=j4dsNR9SKXA)
-- [MCPE Shader Part ||0|| Best MCPE Shader/Texture Pack - Trailer](https://www.youtube.com/watch?v=eExan5C3LlU)
-- [How To Get Free 1000 Diamonds Daily In Free Fire || Get Unlimited Diamonds In Free Fire Fire Free](https://www.youtube.com/watch?v=_Em6N9wl5uQ)
+<!-- YOUTUBE:START --> 
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/KunalSingh19)
 
