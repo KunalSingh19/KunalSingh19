@@ -26,4 +26,4 @@ jobs:
                   <img width="100px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
               </a>
                <a href="$url">$title</a>
-                <br/>$date
+                <br/>$date'
