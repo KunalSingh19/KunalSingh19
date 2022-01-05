@@ -20,10 +20,12 @@ jobs:
           max_post_count: 5
           template: '
               <a href="$url">
-                  <img width="100px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
+                  <img width="250px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
               </a>
+               <br>
                <a href="$url">$title</a>
-                <br/>$date'
+                <br>
+               <br/>$date'
       - uses: gautamkrishnar/keepalive-workflow@master
         with:
           committer_username: "KunalSingh19"
