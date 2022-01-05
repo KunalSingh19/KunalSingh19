@@ -56,9 +56,7 @@
 ---
 
 <div align="center>
-
-<details>
-  <summary>📖 Programming Stats</summary>
+  <h3>📖 Programming Stats</h3>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--25%20Thousand%20lines%20of%20code-blue)
@@ -136,21 +134,13 @@ EJS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
-</details>
-
 </div>
 
 <div align="center>
-
-<details>
-<summary>📑 Github Metrics</summary>
-
+<h3>📑 Github Metrics</h3>
 <p align="centre">
 <img src="https://kunalsingh19.tech/metrics/github-metrics.svg" alt="metrics"></img>
 </p>
-
-</details>
-
 </div>
 
 ---
