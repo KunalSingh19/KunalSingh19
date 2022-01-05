@@ -21,7 +21,7 @@ jobs:
           template: '
 <div align="centre">
               <a href="$url">
-                  <img width="250px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
+                  <img width="125px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
               </a>
                <br>
                <a href="$url">$title</a>
