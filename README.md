@@ -138,11 +138,12 @@ EJS                      1 repo              █░░░░░░░░░░�
 </details>
 </div>
 
-<div align="center">
+<div align="center"> 
+<details>
 <h3>📑 Github Metrics</h3>
 <p align="centre">
 <img src="https://kunalsingh19.tech/metrics/github-metrics.svg" alt="metrics"></img>
-</p>
+</p> </details>
 </div>
 
 ---
