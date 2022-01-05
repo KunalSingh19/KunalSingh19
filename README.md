@@ -55,6 +55,7 @@
 
 ---
 
+<div align="center>
 <details>
   <summary>📖 Programming Stats</summary>
 
@@ -135,7 +136,8 @@ EJS                      1 repo              █░░░░░░░░░░�
  Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
 </details>
-
+</div>
+<div align="center>
 <details>
 <summary>📑 Github Metrics</summary>
 
@@ -144,6 +146,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 </p>
 
 </details>
+</div>
 
 ---
 
