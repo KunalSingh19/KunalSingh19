@@ -55,7 +55,7 @@
 
 ---
 
-<div align="center>
+<div align="center">
   <h3>📖 Programming Stats</h3>
 
 <!--START_SECTION:waka-->
@@ -136,7 +136,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </div>
 
-<div align="center>
+<div align="center">
 <h3>📑 Github Metrics</h3>
 <p align="centre">
 <img src="https://kunalsingh19.tech/metrics/github-metrics.svg" alt="metrics"></img>
