@@ -67,9 +67,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 97 Contributions in the Year 2022
+> 🏆 98 Contributions in the Year 2022
  > 
-> 📦 77.1 kB Used in GitHub's Storage 
+> 📦 80.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,8 +82,8 @@
 ```text
 🌞 Morning    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
 🌆 Daytime    215 commits    ████████████░░░░░░░░░░░░░   48.42% 
-🌃 Evening    158 commits    █████████░░░░░░░░░░░░░░░░   35.59% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
+🌃 Evening    157 commits    ████████░░░░░░░░░░░░░░░░░   35.36% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -136,7 +136,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/KunalSingh19/KunalSingh19/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
 </details>
 </div>
