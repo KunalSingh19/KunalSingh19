@@ -2,11 +2,9 @@
 
 ![KunalSingh19's GitHub Cover](https://cool-cover.up.railway.app/cover.png?username=KunalSingh19&text=Hi,+I'm+KunalSingh19&pattern=p2)
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h1>
 
 [![Hey, I'm KunalSingh19!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f339&text=Hey%252C%2520I%27m%2520KunalSingh19%21)](#)
 
-</h1>
 - 🔭 I just launched my first crypto
 - 🔭 I’m currently working on [My Website](https://KunalSingh19.tech)
 - 🌱 I’m currently learning everything 🤣
