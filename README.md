@@ -24,15 +24,7 @@
 <a href="https://discord.gg/https://discord.gg/44SuyqbtvW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/44SuyqbtvW" height="30" width="40" /></a>
 </p>
 
----
-<div align="center">
-<h3> 📺 Latest YouTube Videos <h3>
-<!-- YOUTUBE:START --><div align="centre"> <a href="https://www.youtube.com/watch?v=34yJoz18hcg"> <img width="125px" src="https://i.ytimg.com/vi/34yJoz18hcg/mqdefault.jpg"> </a> <br> <a size="10px" href="https://www.youtube.com/watch?v=34yJoz18hcg">How To install T-Header in Termux #termuxtutorials #termux</a> <br> <br> </div><div align="centre"> <a href="https://www.youtube.com/watch?v=okBOh2IrDR0"> <img width="125px" src="https://i.ytimg.com/vi/okBOh2IrDR0/mqdefault.jpg"> </a> <br> <a size="10px" href="https://www.youtube.com/watch?v=okBOh2IrDR0">How To Install Cool and awesome eagle eye on Termux easily #termuxtutorials #termux</a> <br> <br> </div><div align="centre"> <a href="https://www.youtube.com/watch?v=4jAM6fYVtaE"> <img width="125px" src="https://i.ytimg.com/vi/4jAM6fYVtaE/mqdefault.jpg"> </a> <br> <a size="10px" href="https://www.youtube.com/watch?v=4jAM6fYVtaE">best goal 💪🏆</a> <br> <br> </div><div align="centre"> <a href="https://www.youtube.com/watch?v=EymCIAv4bjg"> <img width="125px" src="https://i.ytimg.com/vi/EymCIAv4bjg/mqdefault.jpg"> </a> <br> <a size="10px" href="https://www.youtube.com/watch?v=EymCIAv4bjg">boys attitude WhatsApp Status</a> <br> <br> </div><div align="centre"> <a href="https://www.youtube.com/watch?v=evsvOwQR20M"> <img width="125px" src="https://i.ytimg.com/vi/evsvOwQR20M/mqdefault.jpg"> </a> <br> <a size="10px" href="https://www.youtube.com/watch?v=evsvOwQR20M">song with teddy</a> <br> <br> </div><!-- YOUTUBE:END -->
-<br>
-<a href="https://youtube.com/KunalSingh19">🥀more videos</a>
-</div>
 
----
 
 <div align="center">
 <h3>🛠 Language And Tools I use</h3>
@@ -65,93 +57,4 @@
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=KunalSingh19&theme=react-dark"/> -->
 </div>
 
----
-
-<div align="center">
-<details>
-  <summary>📖 Programming Stats</summary>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--19%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 446 Contributions in the Year 2022
- > 
-> 📦 28.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
-🌆 Daytime    113 commits    ███████░░░░░░░░░░░░░░░░░░   30.29% 
-🌃 Evening    150 commits    ██████████░░░░░░░░░░░░░░░   40.21% 
-🌙 Night      74 commits     █████░░░░░░░░░░░░░░░░░░░░   19.84%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
-Wednesday    82 commits     █████░░░░░░░░░░░░░░░░░░░░   21.98% 
-Thursday     85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.79% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
-Saturday     77 commits     █████░░░░░░░░░░░░░░░░░░░░   20.64% 
-Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.02%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-XML                      1 min               █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/KunalSingh19/KunalSingh19/main/charts/bar_graph.png) 
-
-
- Last Updated on 11/06/2022 18:41:18 UTC
-<!--END_SECTION:waka-->
-</details>
-</div>
-
----
-
-
+  ---
