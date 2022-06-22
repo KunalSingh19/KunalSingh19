@@ -152,14 +152,6 @@ JavaScript               1 repo              ███░░░░░░░░�
 </details>
 </div>
 
-<div align="center"> 
-<details>
-<summary>📑 Github Metrics</summary>
-<p align="centre">
-<img src="https://kunalsingh19.tech/metrics/github-metrics.svg" alt="metrics"></img>
-</p> </details>
-</div>
-
 ---
 
 
