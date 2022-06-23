@@ -3,7 +3,7 @@
 <p>
   <em>
     I'm a self-taught 🧑‍💻 <b>Programmer</b> and a high-school student who likes to build awesome apps. <br/><br/>
-    <img src="https://user-images.githubusercontent.com/48997634/171174075-91c72b74-22db-496c-9f8d-911b97c6ea16.png" width="100%"/>
+    <img src="https://raw.githubusercontent.com/KunalSingh19/KunalSingh19/main/banner.png" width="100%"/>
   </em>
 </p>
 
